@@ -1,3 +1,30 @@
+* {
+  font-family: 'NeoDunggeunmoPro-Regular';
+  cursor: default;
+}
+
+ul {
+  padding: 0;
+  margin: 0;
+}
+
+li {
+  list-style: none;
+}
+
+a {
+  color: inherit; /* 링크의 색상을 상속받음 */
+  text-decoration: none; /* 밑줄 제거 */
+  /* 다른 속성을 필요에 따라 추가로 작성할 수 있음 */
+}
+
+a:hover {
+  color: inherit; /* 링크의 색상을 상속받음 */
+  text-decoration: none; /* 밑줄 제거 */
+  /* 다른 속성을 필요에 따라 추가로 작성할 수 있음 */
+}
+
+/* End */
 .App {
   text-align: center;
 }

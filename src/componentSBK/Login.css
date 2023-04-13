@@ -1,0 +1,38 @@
+.login-wrapper {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image: url('../../public/imgSbk930123/signupbgi.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.login-form {
+  width: 520px;
+  display: block;
+  text-align: justify;
+  flex-direction: column;
+  align-items: flex-start;
+  background-color: #fff;
+}
+
+.login-nav {
+  position: relative;
+  width: 100%;
+  height: 80px;
+  background-color: #000;
+  display: flex;
+  align-items: center;
+  justify-content: right;
+}
+
+.login-nav img {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 200px;
+  transform: translate(-50%, -50%);
+}

@@ -1,0 +1,265 @@
+{
+  "nintendoTitle": [
+    {
+      "id" : 0,
+      "titleLogo": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Metroid_Logo_2.png",
+      "back": "https://www.nintendo.co.jp/switch/a3sda/assets/img/world/bg_mv02.jpg",
+      "intro": "1986년 메트로이드를 시작으로 닌텐도에서 제작, 발매하는 액션 어드벤처 게임 시리즈. 메트로배니아의 '메트로'의 어원이 된 시리즈이며, 2D 횡스크롤 슈터로 출발했지만 메트로이드 프라임 시리즈는 FPS의 요소를 채용하였다.",
+      "chara": "http://localhost:3000/static/media/WI-Samus-.6846566da42cfcf7eddb.png",
+      "SSList": [
+        {
+          "img": "https://preview.redd.it/high-res-screenshots-of-my-metroid-prime-remastered-v0-hyd5g3dge8ha1.png?width=640&crop=smart&auto=webp&s=7ba204fdf7c0357451408f0a821672c571f068ba"
+        },
+        {
+          "img": "https://nintendoeverything.com/wp-content/uploads/sites/1/nggallery/metroid-prime-remastered/Switch_MetroidPrimeRemastered_Screen_06.jpg"
+        },
+        {
+          "img": "https://m.media-amazon.com/images/I/61VY+lVZWjL._AC_UF1000,1000_QL80_.jpg"
+        },
+        {
+          "img": "https://nintendoeverything.com/wp-content/uploads/sites/1/nggallery/metroid-prime-remastered/Switch_MetroidPrimeRemastered_Screen_20.jpg"
+        }
+      ],
+      "symbol": "http://localhost:3000/static/media/metroid-icon.5b3e8b3f00a4d806506c.png",
+      "ETCList": [
+        {
+          "img": "https://www.nintendo.co.kr/front_images/sw/switch/1840/d8340e85cef018e838e5edb463d66be9.jpeg"
+        },
+        {
+          "img": "https://www.nintendo.co.kr/front_images/sw/switch/3081/0a932cbf831fec7965e54f7ee13b0e8a.jpg"
+        }
+      ]
+    },
+    {
+      "id" : 2,
+      "titleLogo": "https://www.pngmart.com/files/13/The-Legend-of-Zelda-Logo-PNG-Image.png",
+      "back": "https://www.nintendo.co.kr/front_images/banner/rolling/283/ea38d440ffd96f2493c15a566f8cf735.png",
+      "intro": "닌텐도 대표 걸작 시리즈 중의 하나, 닌텐도 스위치와 함께 발매한 야생의 숨결은 Wii U로 인해 부진하던 닌텐도를 되살렸다. 시리즈가 다양한 면에서 변화를 추구하기에 갑작스럽게 기존 시리즈와 상당히 다른 느낌의 게임이 나오는 경우도 있으며, 그만큼 다른 작품들과 비교할 때 출시하는 텀이 긴 편이다, 최신작인 티어스 오브 더 킹덤은 5월 발매 예정",
+      "chara": "http://localhost:3000/static/media/WI-Link.480c0b451a6f7b87f430.webp",
+      "SSList": [
+        {
+          "img": "https://www.nintendo.co.kr/images/renew/software/switch/aaaaa/img_switch_aaaaa_large_thumb01.jpg"
+        },
+        {
+          "img": "https://www.nintendo.co.kr/images/renew/software/switch/aaaaa/img_switch_aaaaa_large_thumb02.jpg"
+        },
+        {
+          "img": "https://www.nintendo.co.kr/images/renew/software/switch/aaaaa/img_switch_aaaaa_large_thumb03.jpg"
+        },
+        {
+          "img": "https://www.nintendo.co.kr/images/renew/software/switch/aaaaa/img_switch_aaaaa_large_thumb05.jpg"
+        }
+      ],
+      "symbol": "http://localhost:3000/static/media/zelda-icon.2bc82719829d6dbe9e21.png",
+      "ETCList": [
+        {
+          "img": "https://www.nintendo.co.kr/front_images/sw/switch/241/241.jpg"
+        },
+        {
+          "img": "https://www.nintendo.co.kr/front_images/sw/switch/418/418.jpg"
+        },
+        {
+          "img": "https://www.nintendo.co.kr/front_images/sw/switch/1575/5f3c8b3caf2bc1267b400be197d6e586.jpeg"
+        },
+        {
+          "img": "https://www.nintendo.co.kr/front_images/news/1241/4a54c9f3888fa612cd0dacfcab000c97.jpg"
+        }
+      ]
+    },
+    {
+      "id" : 3,
+      "titleLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Mario_Series_Logo.svg/2560px-Mario_Series_Logo.svg.png",
+      "back": "https://www.nintendo.co.kr/software/switch/aaaca/img/index_bg01.jpg",
+      "intro": "닌텐도의 대표 프랜차이즈, 비디오게임 발전에 큰 영향을 끼친 시리즈인 만큼 현대 비디오 게임의 상징으로 여기는 사람들도 많다. 본가 시리즈 최신작은 아직 닌텐도 스위치의 초기인 2017년에 발매한 슈퍼 마리오 오디세이",
+      "chara": "http://localhost:3000/static/media/WI-MARIO.3cf467c8943dd5163dfc.webp",
+      "SSList": [
+        {
+          "img": "https://www.nintendo.co.kr/software/switch/aaaca/img/img_action.png"
+        },
+        {
+          "img": "https://www.nintendo.co.kr/software/switch/aaaca/action/img/action_photo02.jpg"
+        },
+        {
+          "img": "https://www.nintendo.co.kr/software/switch/aaaca/action/img/action_capture10_img.jpg"
+        },
+        {
+          "img": "https://www.nintendo.co.kr/software/switch/aaaca/action/img/action_capture09_img.jpg"
+        }
+      ],
+      "symbol": "http://localhost:3000/static/media/mario-icon.9cbe9f6f3e007ebe380c.webp",
+      "ETCList": [
+        {
+          "img": "https://www.nintendo.co.kr/front_images/sw/switch/232/232.jpg"
+        },
+        {
+          "img": "https://www.nintendo.co.kr/front_images/sw/switch/882/66a3476b766a8e3bbd2eb6275af37b9e.jpg"
+        },
+        {
+          "img": "https://www.nintendo.co.kr/front_images/sw/switch/1035/e7c170fe5228a3be04d94f231550f185.jpg"
+        },
+        {
+          "img": "https://www.nintendo.co.kr/front_images/sw/switch/340/340.jpg"
+        }
+      ]
+    },
+    {
+      "id" : 4,
+      "titleLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Fire_Emblem_logo.svg/2560px-Fire_Emblem_logo.svg.png",
+      "back": "https://www.nintendo.co.kr/software/switch/ayfna/assets/img/chara/crest_bg.jpg",
+      "intro": "동료를 육성하는 RPG의 재미,  전략을 세워 싸우는 시뮬레이션의 재미를 융합시킨 롤플레잉 시뮬레이션 게임 「파이어 엠블렘」. 1990년 4월(해외 기준)에 발매된 첫번째 작품으로부터 30년 이상 이어진 본 시리즈의 최신작이 『파이어 엠블렘 Engage』입니다.",
+      "chara": "http://localhost:3000/static/media/WI-Alear-.44bdf0007878abda14f5.png",
+      "SSList": [
+        {
+          "img": "https://www.nintendo.co.kr/software/switch/ayfna/assets/img/system/battle/rule_movie_thumb_01.jpg"
+        },
+        {
+          "img": "https://www.nintendo.co.kr/software/switch/ayfna/assets/img/system/battle/rule_movie_thumb_02.jpg"
+        },
+        {
+          "img": "https://www.nintendo.co.kr/software/switch/ayfna/assets/img/system/battle/crest_slide_thumb_01_01.jpg"
+        },
+        {
+          "img": "https://www.nintendo.co.kr/software/switch/ayfna/assets/img/system/battle/crest_slide_thumb_02_01.jpg"
+        }
+      ],
+      "symbol": "http://localhost:3000/static/media/FE-icon.8a2f39a9c7bf86874208.png",
+      "ETCList": [
+        {
+          "img": "https://www.nintendo.co.kr/front_images/sw/switch/399/399.jpg"
+        },
+        {
+          "img": "https://www.nintendo.co.kr/front_images/sw/switch/2448/8473efb1fedd57e65a1f6b7f12f84c62.jpg"
+        },
+        {
+          "img": "https://www.nintendo.co.kr/front_images/sw/switch/3032/b3d35fb0683afa1f5706fe40f3c890f4.png"
+        }
+      ]
+    },
+    {
+      "id" : 5,
+      "titleLogo": "https://www.pngkit.com/png/full/209-2091697_splatoon-splatoon-logo-png.png",
+      "back": "https://www.nintendo.co.kr/software/switch/av5ja/assets/images/world/pc/hero_bg.png",
+      "intro": "2015년 5월 Wii U로 출시된 TPS 게임, 당시 Wii U의 실패로 인한 닌텐도의 미래에 대한 우려를 뒤엎은 신규 IP로 이후 닌텐도를 대표하는 새로운 브랜드가 되었으나 Wii U로 출시된 만큼 국내에는 들어오지 못했다. 최신작인 스플래툰3는 2022년 9월 출시하여 처음으로 정식 한글화도 되면서 작년 4분기 결산 1000만 장 이상의 판매량을 기록했다",
+      "chara": "http://localhost:3000/static/media/WI-Inkling-.a85f55cf9fa9d369e6ba.png",
+      "SSList": [
+        {
+          "img": "https://cdn.mos.cms.futurecdn.net/Usoou4wyFHd8dFa96Qbi2Q.jpg"
+        },
+        {
+          "img": "https://pbs.twimg.com/media/EueDEEPVIAIuM6G.jpg:large"
+        },
+        {
+          "img": "https://hard-drive.net/wp-content/uploads/2022/09/Screenshot-2022-09-09-at-00-48-12-Splatoon%E2%84%A2-3-for-Nintendo-Switch-Nintendo-Official-Site.jpg"
+        },
+        {
+          "img": "https://www.taminggaming.com/cms/graphics/screen_shot_2131.jpg"
+        }
+      ],
+      "symbol": "http://localhost:3000/static/media/splatoon-icon.ea4c8d6e5bf8573a75aa.png",
+      "ETCList": [
+        {
+          "img": "https://www.nintendo.co.kr/front_images/sw/switch/2632/e2739d219ff28005e41eac4ba3dd92ba.jpg"
+        }
+      ]
+    },
+    {
+      "id" : 6,
+      "titleLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Kirby-Logo-New.svg/2560px-Kirby-Logo-New.svg.png",
+      "back": "https://www.nintendo.co.kr/software/switch/arzga/assets/img/top/bg_mouthful.jpg",
+      "intro": "닌텐도에서 1992년 <별의 커비>부터 발매하고 있는 액션 게임 시리즈, 본가 최신작인 별의 커비 디스커버리는 시리즈 전통의 횡스크롤 조작 방식에서 벗어나 최초의 전방향 3D 액션 게임이자 시리즈의 30주년 기념작이다.",
+      "chara": "http://localhost:3000/static/media/WI-Kirby.abea50611ea34a9d0ddf.png",
+      "SSList": [
+        {
+          "img": "https://www.nintendo.co.kr/software/switch/arzga/assets/img/about/img_slide_7.jpg"
+        },
+        {
+          "img": "https://www.nintendo.co.kr/software/switch/arzga/assets/img/about/img_slide_1.jpg"
+        },
+        {
+          "img": "https://www.nintendo.co.kr/software/switch/arzga/assets/img/about/img_slide_2.jpg"
+        },
+        {
+          "img": "https://www.nintendo.co.kr/software/switch/arzga/assets/img/about/img_slide_4.jpg"
+        }
+      ],
+      "symbol": "http://localhost:3000/static/media/kirby-icon.b4bd95d90dbabebec689.png",
+      "ETCList": [
+        {
+          "img": "https://www.nintendo.co.kr/front_images/sw/switch/419/419.jpg"
+        },
+        {
+          "img": "https://www.nintendo.co.kr/front_images/sw/switch/2218/146074fcb32b408c590de59e155c0b2d.jpg"
+        },
+        {
+          "img": "https://www.nintendo.co.kr/front_images/sw/switch/2568/d4020211358f3384e519bfc5d4a6cc0b.jpg"
+        },
+        {
+          "img": "https://www.nintendo.co.kr/front_images/sw/switch/3079/549756ae90d55f86634a883fd3452460.jpg"
+        }
+      ]
+    },
+    {
+      "id" : 7,
+      "titleLogo": "https://www.nintendo.co.kr/software/switch/acbaa/assets/images/top/visual_logo__pc.png",
+      "back": "https://www.nintendo.co.kr/software/switch/acbaa/assets/images/top/visual_bg_pc.jpg",
+      "intro": "플레이어가 동물들이 살고 있는 숲속의 마을에 합류해 살면서 산책하고 곤충 채집을 하고 낚시를 하고 동물 이웃들과 교류하고 집을 인테리어하는 등의 활동을 하는데, 온라인 친구와 같이 즐길 수 있는 커뮤니케이션 게임이다. 최신작은 2020년 발매한 『모여봐요 동물의 숲』",
+      "chara": "http://localhost:3000/static/media/WI-villager.5670ad9c3bbd25ea51a1.png",
+      "SSList": [
+        {
+          "img": "https://nintendoeverything.com/wp-content/uploads/Switch_ACNH_ND0904_SCRN_11_bmp_jpgcopy.jpg"
+        },
+        {
+          "img": "https://www.newgamenetwork.com/images/uploads/gallery/AnimalCrossingNH/acnh_02.jpg"
+        },
+        {
+          "img": "https://www.videogameschronicle.com/files/2020/01/z_5e182ec787a77.jpg"
+        },
+        {
+          "img": "https://sm.ign.com/t/ign_ap/screenshot/default/ac2-1582208526055_4ghe.1080.jpg"
+        }
+      ],
+      "symbol": "http://localhost:3000/static/media/ac-ICON.901b97a2c0980c45b407.png",
+      "ETCList": [
+        {
+          "img": "https://www.nintendo.co.kr/front_images/sw/switch/469/469.jpg"
+        }
+      ]
+    },
+    {
+      "id" : 8,
+      "titleLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/International_Pok%C3%A9mon_logo.svg/2560px-International_Pok%C3%A9mon_logo.svg.png",
+      "back": "https://www.pokemon.co.jp/ex/sv/assets/img/story/ja/220803_02/story_img_01.jpg",
+      "intro": "시발점이 되는 작품은 1996년 닌텐도 게임보이용으로 출시되었다. 전 세계 미디어 믹스 총매출 1위의 문화적 현상이라 불릴 만큼의 컨텐츠이나 컨텐츠사업이 흥행하면서도 본가 게임의 완성도는 좋은 평가가 많지 않다. 그럼에도 불구하고 시리즈 최신작인 스칼렛.바이올렛은 2022년 11월 발매 후 한달만에 작년 4분기 누적 2천만 장 이상을 기록하였다",
+      "chara": "http://localhost:3000/static/media/WI-pikachu-.7f8e389b7ad25bd80f42.png",
+      "SSList": [
+        {
+          "img": "https://www.pokemon.co.jp/ex/sv/assets/img/features/ja/220803_05/features_img_03.jpg"
+        },
+        {
+          "img": "https://www.pokemon.co.jp/ex/sv/assets/img/toppage/ja/features_img02.jpg"
+        },
+        {
+          "img": "https://www.pokemon.co.jp/ex/sv/assets/img/toppage/story_image_05.jpg"
+        },
+        {
+          "img": "https://www.pokemon.co.jp/ex/sv/assets/img/battle/ja/220822_02/battle_img_07.jpg"
+        }
+      ],
+      "symbol": "http://localhost:3000/static/media/pokemon-icon.d2e3f67aae3c17133c74.webp",
+      "ETCList": [
+        {
+          "img": "https://www.nintendo.co.kr/front_images/sw/switch/442/442.jpg"
+        },
+        {
+          "img": "https://www.nintendo.co.kr/front_images/sw/switch/1923/cd752be9c313c9e4dbb750fb310424ab.jpg"
+        },
+        {
+          "img": "https://www.nintendo.co.kr/front_images/sw/switch/2106/6b8396ab4aa39cb6160cb37ac0ab88ad.jpg"
+        },
+        {
+          "img": "https://www.nintendo.co.kr/front_images/sw/switch/2883/90ba4949b431e7309107d9317098d2ce.jpg"
+        }
+      ]
+    }
+  ]
+}

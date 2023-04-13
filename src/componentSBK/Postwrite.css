@@ -1,0 +1,27 @@
+.postwrite-form {
+  width: 800px;
+  display: block;
+  text-align: justify;
+  flex-direction: column;
+  align-items: flex-start;
+  background-color: #fff;
+  overflow: scroll;
+}
+
+.title-wrapper {
+  display: flex;
+  align-items: center;
+}
+
+.title-wrapper h4 {
+  padding: 5px;
+  margin: 5px
+}
+
+.title-wrapper input {
+  width: 100%;
+  margin-right: 5px;
+  padding: 5px;
+  outline: none;
+  border: 1px solid rgb(0, 0, 0, .5);
+}

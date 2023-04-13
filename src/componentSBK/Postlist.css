@@ -1,0 +1,94 @@
+.postlist-wrapper {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image: url('../../public/imgSbk930123/signupbgi.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.postlist-container {
+  width: 70%;
+  background-color: #fff;
+}
+
+.postlist-item-wrapper {
+  margin-top: 50px;
+}
+
+.post-item {
+  display: flex;
+  justify-content: space-between;
+  width: 70%;
+  margin: 0 auto;
+  margin-top: 10px;
+  border-bottom: 1px solid rgb(0, 0, 0, .5);
+}
+
+.rel-box {
+  position: relative;
+}
+
+.pagenate-wrapper {
+  display: flex;
+  margin: 50px 0;
+  justify-content: center;
+  align-items: center;
+}
+
+.pen-icon {
+  font-size: 20px;
+  position: absolute;
+  right: 15%;
+  bottom: 25px;
+  color: black;
+}
+
+.pen-icon:hover {
+  color: #0070D1;
+}
+
+.pen-icon:active {
+  color: #e60012;
+}
+
+.active>.page-link {
+  background-color: #0070D1;
+}
+
+a.page-link {
+  color: #000;
+}
+
+.back-nav {
+  position: relative;
+  width: 100%;
+  height: 80px;
+  background-color: #000;
+  display: flex;
+  align-items: center;
+  justify-content: left;
+}
+
+.back-icon {
+  color: #fff;
+  opacity: .8;
+  font-size: 30px;
+  margin-left: 20px;
+}
+
+.back-icon:hover {
+  opacity: 1;
+}
+
+.back-nav img {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 200px;
+  transform: translate(-50%, -50%);
+}
+

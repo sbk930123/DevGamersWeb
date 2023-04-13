@@ -1,0 +1,105 @@
+{
+  "games": [
+    {
+      "title": "시뮬레이션 추천 게임",
+      "items": [
+        {
+          "img": "../imgYurim789/game images/Title 0.jpg",
+          "name": "스타듀밸리",
+          "logos": ["../imgYurim789/images/ps logo.png", "../imgYurim789/images/nintendo switch logo.png", "../imgYurim789/images/steam logo.png"]
+        },
+        {
+          "img": "../imgYurim789/game images/Title 1.jpg",
+          "name": "심즈",
+          "logos": ["../imgYurim789/images/steam logo.png"]
+        },
+        {
+          "img": "../imgYurim789/game images/Title 2.jpg",
+          "name": "시티즈: 스카이라인",
+          "logos": ["../imgYurim789/images/ps logo.png", "../imgYurim789/images/nintendo switch logo.png", "../imgYurim789/images/steam logo.png"]
+        },
+        {
+          "img": "../imgYurim789/game images/Title 3.jpg",
+          "name": "모여봐요 동물의숲",
+          "logos": ["../imgYurim789/images/nintendo switch logo.png"]
+        }
+      ]
+    },
+    {
+      "title": "전략 추천 게임",
+      "items": [
+        {
+          "img": "../imgYurim789/game images/Title 4.jpg",
+          "name": "문명",
+          "logos": ["../imgYurim789/images/ps logo.png", "../imgYurim789/images/steam logo.png"]
+        },
+        {
+          "img": "../imgYurim789/game images/Title 5.jpg",
+          "name": "다키스트 던전",
+          "logos": ["../imgYurim789/images/ps logo.png", "../imgYurim789/images/nintendo switch logo.png", "../imgYurim789/images/steam logo.png"]
+        },
+        {
+          "img": "../imgYurim789/game images/Title 6.jpg",
+          "name": "디스 워 오브 마인",
+          "logos": ["../imgYurim789/images/ps logo.png", "../imgYurim789/images/nintendo switch logo.png", "../imgYurim789/images/steam logo.png"]
+        },
+        {
+          "img": "../imgYurim789/game images/Title 7.jpg",
+          "name": "파이어앰블렘 풍화설월",
+          "logos": ["../imgYurim789/images/nintendo switch logo.png"]
+        }
+
+      ]
+    },
+    {
+      "title": "롤플레잉 추천 게임",
+      "items": [
+        {
+          "img": "../imgYurim789/game images/Title 8.jpg",
+          "name": "위쳐",
+          "logos": ["../imgYurim789/images/ps logo.png", "../imgYurim789/images/nintendo switch logo.png", "../imgYurim789/images/steam logo.png"]
+        },
+        {
+          "img": "../imgYurim789/game images/Title 9.jpg",
+          "name": "엘든링",
+          "logos": ["../imgYurim789/images/ps logo.png", "../imgYurim789/images/steam logo.png"]
+        },
+        {
+          "img": "../imgYurim789/game images/Title 10.jpg",
+          "name": "몬스터 헌터",
+          "logos": ["../imgYurim789/images/ps logo.png", "../imgYurim789/images/steam logo.png"]
+        },
+        {
+          "img": "../imgYurim789/game images/Title 11.jpg",
+          "name": "젤다의 전설: 야생의 숨결",
+          "logos": ["../imgYurim789/images/nintendo switch logo.png"]
+        }
+      ]
+    },
+    {
+      "title": "스포츠 추천 게임",
+      "items": [
+        {
+          "img": "../imgYurim789/game images/Title 12.jpg",
+          "name": "NBA 2K23",
+          "logos": ["../imgYurim789/images/ps logo.png", "../imgYurim789/images/nintendo switch logo.png", "../imgYurim789/images/steam logo.png"]
+        },
+        {
+          "img": "../imgYurim789/game images/Title 13.jpg",
+          "name": "저스트 댄스",
+          "logos": ["../imgYurim789/images/ps logo.png", "../imgYurim789/images/nintendo switch logo.png"]
+        },
+        {
+          "img": "../imgYurim789/game images/Title 14.jpg",
+          "name": "FIFA23",
+          "logos": ["../imgYurim789/images/ps logo.png", "../imgYurim789/images/nintendo switch logo.png", "../imgYurim789/images/steam logo.png"]
+        },
+        {
+          "img": "../imgYurim789/game images/Title 15.jpg",
+          "name": "링피트",
+          "logos": ["../imgYurim789/images/nintendo switch logo.png"]
+        }
+      ]
+    }
+  ]
+}

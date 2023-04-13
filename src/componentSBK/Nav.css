@@ -1,0 +1,211 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.bookmark {
+  position: fixed;
+  display: flex;
+  justify-content: center;
+  width: 50px;
+  height: 0;
+  scale: 0;
+  top: -10%;
+  transition: height 1s ease-out, top 1s ease-out;
+  box-shadow: 2px 2px 2px rgb(0, 0, 0, .5);
+  border: 5px solid rgb(0, 0, 0, .2);
+  z-index: 2;
+}
+
+.bookmark.on {
+  height: 90px;
+  scale: 1;
+  top: 2%;
+}
+
+.bookmark img {
+  height: 300px;
+}
+
+.ps.on {
+  left: 50px;
+  background-color: #0070D1;
+}
+
+.ps img {
+  position: absolute;
+  bottom: 0;
+  height: 30px;
+  width: 80%;
+  z-index: 2;
+}
+
+.nin.on {
+  left: 100px;
+  background-color: #e60012;
+}
+
+.nin img {
+  position: absolute;
+  bottom: 0;
+  height: 30px;
+  width: 80%;
+  z-index: 2;
+}
+
+.st.on {
+  left: 150px;
+  background-color: #333740;
+}
+
+.st img {
+  position: absolute;
+  bottom: 0;
+  height: 30px;
+  width: 80%;
+  z-index: 2;
+}
+
+.bookmark:hover {
+  height: 150px;
+}
+
+.global-header {
+  display: flex;
+  justify-content: center;
+}
+
+.global-nav {
+  position: absolute;
+  top: 50px;
+  display: flex;
+  left: 0;
+  right: 0;
+  width: 0;
+  height: 0px;
+  justify-content: space-around;
+  background-color: white;
+  color: rgb(31, 31, 31);
+  transition: width 1s, height 1s, border-radius 2s;
+  margin: 0 auto;
+  box-shadow: 2px 2px 2px rgb(0, 0, 0, .2);
+  border-radius: 10px;
+  z-index: 2;
+}
+
+.global-nav.show {
+  height: 70px;
+  width: 75%;
+}
+
+.global-nav.on {
+  background-color: #000;
+  color: rgb(228, 228, 228);
+  position: fixed;
+  width: 100%;
+  top: 0;
+  box-shadow: none;
+  border-radius: 0;
+  z-index: 2;
+}
+
+.global-nav.psnav {
+  background-color: #0070D1;
+  color: rgb(228, 228, 228);
+  position: fixed;
+  width: 100%;
+  top: 0;
+  box-shadow: none;
+  border-radius: 0;
+  z-index: 2;
+}
+
+.global-nav.psnav.on {
+  background-color: #0070D1;
+}
+
+.react-logo {
+  position: relative;
+  display: flex;
+  align-items: center;
+  margin: 0;
+  right: 20px;
+  z-index: 2;
+}
+
+
+.react-logo img {
+  display: block;
+  height: 0;
+  transition: height 2s;
+}
+
+.react-logo img.show {
+  height: 48px;
+}
+
+.nav-list {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  opacity: 0;
+  transition: opacity 1s;
+}
+
+.nav-list.showlist {
+  opacity: 1;
+}
+
+.nav-op {
+  right: 0;
+}
+
+.nav-list a {
+  height: 100%;
+  line-height: 70px;
+  padding: 0 10px;
+  margin: 0 10px;
+  font-size: 20px;
+  font-weight: 600;
+  color: inherit; /* 링크의 색상을 상속받음 */
+  text-decoration: none; /* 밑줄 제거 */
+  /* 다른 속성을 필요에 따라 추가로 작성할 수 있음 */
+}
+
+.nav-list a:hover {
+  color: inherit; /* 링크의 색상을 상속받음 */
+  text-decoration: none; /* 밑줄 제거 */
+  /* 다른 속성을 필요에 따라 추가로 작성할 수 있음 */
+}
+
+.nav-list a::after {
+  content: '';
+  display: block;
+  transform: translateY(-4px);
+  width: 0%;
+}
+
+.nav-list a:hover::after {
+  border: 2px solid #171A21;
+  width: 100%;
+}
+
+.nav-list.on a:hover::after {
+  transform: translateY(-4px);
+  border: 2px solid #fff;
+  width: 100%;
+}
+
+@media screen and (max-width: 1200px) {
+  .bookmark {
+    display: none;
+  }
+}
+
+.Nav-modal {
+  top: 40%;
+  left: 50%;
+  transform: translate(-50%, -40%)
+}
