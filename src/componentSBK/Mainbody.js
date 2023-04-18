@@ -76,9 +76,9 @@ function Mainbody() {
             </Link>
           </div>
           <div className="img-box hidden">
-            <img className={`bg-img ${ showHb ? '' : 'hidden' }`} src='imgSbk930123/hbnintendo.png'></img>
-            <img className={`bg-img ${ showHb2 ? '' : 'hidden' }`} src='imgSbk930123/hbplaystation.jpg'></img>
-            <img className={`bg-img ${ showHb3 ? '' : 'hidden' }`} src='imgSbk930123/hbsteam.png'></img>
+            <a href="/ninpage"><img className={`bg-img ninpageimg ${ showHb ? '' : 'hidden' }`} src='imgSbk930123/hbnintendo.png'></img></a>
+            <a href="/pspage"><img className={`bg-img pspageimg ${ showHb2 ? '' : 'hidden' }`} src='imgSbk930123/hbplaystation.jpg'></img></a>
+            <a href="/stpage"><img className={`bg-img stpageimg ${ showHb3 ? '' : 'hidden' }`} src='imgSbk930123/hbsteam.png'></img></a>
           </div>
         </div>
       </div>

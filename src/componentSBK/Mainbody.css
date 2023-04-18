@@ -64,20 +64,19 @@
   opacity: 1;
   transition: transform 1s, opacity 1s;
   box-shadow: 2px 2px 2px rgb(0, 0, 0, .5);
-  border-radius: 15px;
 }
 
-.bg-img:first-child {
+.ninpageimg {
   top: 28%;
   left: 37%;
 }
 
-.bg-img:nth-child(2) {
+.pspageimg {
   top: 20%;
   left: 62%;
 }
 
-.bg-img:last-child {
+.stpageimg {
   top: 28%;
   left: 87%;
 }

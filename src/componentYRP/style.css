@@ -30,6 +30,11 @@
   height: 150px;
   border-radius: 50%;
   background-color: #999;
+  overflow: hidden;
+}
+
+.footer-profile-img img {
+  width: 150px;
 }
 
 .footer-profile-line {

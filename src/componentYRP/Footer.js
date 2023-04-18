@@ -18,25 +18,25 @@ const Footer = () => {
           <div className="footer-profile-box">
             <div className="footer-profile-line"></div>
             <div className="footer-profile-img">
-              <img src="" alt=""></img>
+              <img src="../imgYurim789/images/김승빈.jpg" alt=""></img>
             </div>
           </div>
           <div className="footer-profile-box">
             <div className="footer-profile-line"></div>
             <div className="footer-profile-img">
-              <img src="" alt=""></img>
+              <img src="../imgYurim789/images/조성아.jpg" alt=""></img>
             </div>
           </div>
           <div className="footer-profile-box">
             <div className="footer-profile-line"></div>
             <div className="footer-profile-img">
-              <img src="" alt=""></img>
+              <img src="../imgYurim789/images/박유림.jpg" alt=""></img>
             </div>
           </div>
           <div className="footer-profile-box">
             <div className="footer-profile-line"></div>
             <div className="footer-profile-img">
-              <img src="" alt=""></img>
+              <img src="../imgYurim789/images/인호성.jpeg" alt=""></img>
             </div>
           </div>
         </div>

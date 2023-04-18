@@ -14,8 +14,8 @@ function Nav({ loggedIn, setLoggedIn }) {
   let [showNavbar, setShowNavbar] = useState(false);
   let [showlist, setShowlist] = useState(false);
   let [bookmark, setBookmark] = useState(false);
-  const [isModalOpen, setIsModalOpen] = useState(false);
-  const [showname, setShowname] = useState('');
+  let [isModalOpen, setIsModalOpen] = useState(false);
+  let [showname, setShowname] = useState('');
 
   let birth = localStorage.getItem('birth');
   let birthTxt = JSON.parse(birth);
@@ -106,11 +106,10 @@ function Nav({ loggedIn, setLoggedIn }) {
     location.pathname === '/post' ||
     location.pathname === '/post/write' ||
     location.pathname.startsWith('/post/') ||
-    location.pathname === '/ninpage' ||
     location.pathname === '/about' ||
     location.pathname.startsWith('/about/')
     ) {
-    return null; // Signup 페이지와 Login 페이지에서는 네비게이션 바를 표시하지 않음
+    return null; 
   }
 
   return (
@@ -126,7 +125,7 @@ function Nav({ loggedIn, setLoggedIn }) {
             <a href='/about'>About</a>
           </ul>
           <h1 className='react-logo'>
-            <img className={`${ showNavbar ? 'show' : '' }`} src={!navChange ? process.env.PUBLIC_URL + 'imgSbk930123/teamLogoBlack2.png' : process.env.PUBLIC_URL + 'imgSbk930123/teamLogoWhite2.png'}></img>
+            <a href="/"><img className={`${ showNavbar ? 'show' : '' }`} src={!navChange ? process.env.PUBLIC_URL + 'imgSbk930123/teamLogoBlack2.png' : process.env.PUBLIC_URL + 'imgSbk930123/teamLogoWhite2.png'}></img></a>
           </h1>
           <ul className={`nav-list nav-op ${ showlist ? 'showlist' : '' } ${ navChange ? 'on' : '' }`}>
             {loggedIn ? (
@@ -135,20 +134,19 @@ function Nav({ loggedIn, setLoggedIn }) {
                 <a>lorem</a>
               </>
             ) : (
-              // 로그인 상태가 아닐 때는 Login과 Signup 버튼 표시
               <>
                 <a href='/login'>Login</a>
                 <a href='/signup'>Sign&nbsp;Up</a>
               </>
             )}
-            <a onClick={handleInfo}>&nbsp;&nbsp;<FontAwesomeIcon icon={faUser} />&nbsp;&nbsp;</a>
+            <a className='nav-info-icon' onClick={handleInfo}>&nbsp;&nbsp;<FontAwesomeIcon icon={faUser} />&nbsp;&nbsp;</a>
           </ul>
         </nav>
       </section>
       {isModalOpen && (
         <>
           <div className='signup-overlay'></div>
-          <div className="signup-modal Nav-modal">
+          <div className="Nav-modal">
             <div className="signup-modal-content">
               <div className='signup-modal-img-box'><img src='imgSbk930123/teamLogoWhite2.png'></img></div>
               <h1 style={{marginTop: "20px"}}>{showname} 님의 정보</h1>

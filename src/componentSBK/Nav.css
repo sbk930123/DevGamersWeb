@@ -78,11 +78,11 @@
 
 .global-nav {
   position: absolute;
+  width: 75%;
   top: 50px;
   display: flex;
   left: 0;
   right: 0;
-  width: 0;
   height: 0px;
   justify-content: space-around;
   background-color: white;
@@ -90,13 +90,12 @@
   transition: width 1s, height 1s, border-radius 2s;
   margin: 0 auto;
   box-shadow: 2px 2px 2px rgb(0, 0, 0, .2);
-  border-radius: 10px;
+  /* border-radius: 10px; */
   z-index: 2;
 }
 
 .global-nav.show {
   height: 70px;
-  width: 75%;
 }
 
 .global-nav.on {
@@ -130,7 +129,6 @@
   display: flex;
   align-items: center;
   margin: 0;
-  right: 20px;
   z-index: 2;
 }
 
@@ -198,14 +196,9 @@
   width: 100%;
 }
 
-@media screen and (max-width: 1200px) {
-  .bookmark {
-    display: none;
-  }
-}
-
 .Nav-modal {
-  top: 40%;
-  left: 50%;
-  transform: translate(-50%, -40%)
+  position: absolute;
+  width: 100%;
+  background-color: #fff;
+  z-index: 3;
 }
